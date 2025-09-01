@@ -1,6 +1,5 @@
 obj
 adalib
-ravenscar-full-stm32f429discopork
 *.ali
 *.lis
 mast_command
@@ -357,3 +356,7 @@ TSWLatexianTemp*
 *.glstex
 
 # End of https://www.gitignore.io/api/latex
+/obj/
+/bin/
+/alire/
+/config/

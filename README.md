@@ -1,51 +1,22 @@
 # Real-time systems 
 
-## Building like a true man with CLI
+The required runtime is available here: https://github.com/tommasoprandin/ravenscar-full-olimexh405-profiling.
 
-```bash
-$ gprbuild --target=arm-eabi -f -d -P gee.gpr -largs -Wl,-Map=map.txt
+## Getting Started
+
+After installing the runtime as explained in its repository, you have to select the proper toolchain:
+```
+alr toolchain --select --local
+```
+select the GNAT version specified in the `alire.toml` file (any `gprbuild` version will work).
+
+After that the program can be compiled by simply running:
+```
+alr build
 ```
 
-If you just wish to run the application without debugging and logs:
-
+The ELF file is available under `/obj`, which can be run with any suitable tool (e.g. ST-Link with `openocd`).
+For instance to run it with `probe-rs` using a ST-Link V2 on a Olimex H405:
 ```
-$ arm-eabi-objcopy -O binary obj/gee obj/gee.bin
-$ st-flash --reset write obj/gee.bin 0x08000000
-```
-
-## Debugging
-
-```bash
-$ st-util --semihosting
-```
-
-In a different tab run the following command. This will automatically use the commands defined in `.gdbinit`.
-
-```bash
-$ arm-none-eabi-gdb
-
-(gdb) continue
-```
-
-If you have just recompiled the application and want to load on the board without exiting from gdb:
-
-```bash
-(gdb) source .gdbinit
-(gdb) continue
-```
-
-## Compiling the runtime
-
-For FPS:
-
-```bash
-runtime$ gprbuild -P ravenscar_full_stm32f429disco_pork.gpr
-runtime$ gprinstall -P ravenscar_full_stm32f429disco_pork.gpr -p -f
-```
-
-For EDF:
-
-```bash
-runtime$ gprbuild -P ravenscar_full_stm32f429disco_pork.gpr -Xsched=edf
-runtime$ gprinstall -P ravenscar_full_stm32f429disco_pork.gpr -p -f -Xsched=edf
+probe-rs run --protocol swd --chip stm32f405rgtx --target-output-file semihosting:stdout obj/gee 
 ```

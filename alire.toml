@@ -1,0 +1,12 @@
+name = "gee"
+description = "Guide Extended Example Ravenscar"
+version = "0.1.0-dev"
+
+authors = ["Tommaso Prandin"]
+maintainers = ["Tommaso Prandin <tommaso.prandin@studenti.unipd.it>"]
+licenses = "MIT"
+website = ""
+tags = []
+
+[[depends-on]]
+gnat_arm_elf = "11.2.4"
