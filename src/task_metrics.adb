@@ -13,10 +13,9 @@ package body Task_Metrics is
 
    procedure End_Tracking (Item : String := "") is
       Exe_Time : Duration;
-      pragma Unreferenced (Item);
    begin
       Exe_Time := To_Duration (Ada.Execution_Time.Clock - Last);
-      Ada.Text_IO.Put_Line ("Elapsed time:" & Duration'Image (Exe_Time));
+      Ada.Text_IO.Put_Line ("Elapsed time for item " & Item & ":" & Duration'Image (Exe_Time));
       Last := Ada.Execution_Time.Clock;
    end End_Tracking;
 end Task_Metrics;

@@ -22,7 +22,7 @@ package body Regular_Producer_Parameters is
       Task_Metrics.Start_Tracking;
       --  we execute the guaranteed level of workload
       Production_Workload.Small_Whetstone (Regular_Producer_Workload);
-      Task_Metrics.End_Tracking;
+      Task_Metrics.End_Tracking ("RP small whetstone");
       --  then we check whether we need to farm excess load out to
       --  On_Call_Producer
       if Auxiliary.Due_Activation (Activation_Condition) then
