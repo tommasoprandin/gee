@@ -1,5 +1,6 @@
 with Request_Buffer_Parameters;
 with System.Tasking.Protected_Objects;
+with Task_Metrics;
 
 package body Request_Buffer is
    type Request_Buffer_Index is
@@ -48,17 +49,20 @@ package body Request_Buffer is
       entry Extract (Activation_Parameter : out Positive)
          when Barrier is
       begin
+			Task_Metrics.Start_Tracking;
          Activation_Parameter := My_Request_Buffer (Extract_Index);
          Extract_Index := Extract_Index + 1;
          Current_Size := Current_Size - 1;
          --  we close the barrier when the buffer is empty
          --  this also prevents the counter from becoming negative
          Barrier := (Current_Size /= 0);
+			Task_Metrics.End_Tracking ("RB Extract");
       end Extract;
       procedure Deposit
            (Activation_Parameter : Positive;
             Response             : out Boolean) is
       begin
+			Task_Metrics.Start_Tracking;
          if Current_Size < Natural (Request_Buffer_Index'Last) then
             My_Request_Buffer (Insert_Index) := Activation_Parameter;
             Insert_Index := Insert_Index + 1;
@@ -71,6 +75,7 @@ package body Request_Buffer is
             --  policy as long as the call returned)
             Response := False;
          end if;
+			Task_Metrics.End_Tracking ("RB Deposit");
       end Deposit;
    end Request_Buffer;
 

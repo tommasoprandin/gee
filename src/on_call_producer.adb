@@ -19,7 +19,9 @@ package body On_Call_Producer is
    function Start (Activation_Parameter : Positive) return Boolean is
       Response : Boolean;
    begin
+		Task_Metrics.Start_Tracking;
       Response := Request_Buffer.Deposit (Activation_Parameter);
+		Task_Metrics.End_Tracking ("RP RB Deposit");
 
       if Release_Time = System.BB.Time.Time'First then
          Release_Time := System.BB.Time.Clock;
@@ -43,8 +45,10 @@ package body On_Call_Producer is
       loop
          --  Task_Metrics.Start_Tracking;
          --  suspending request for activation event with data exchange
-         Current_Workload := Request_Buffer.Extract;
          Release_Jitter := System.BB.Time.Clock - Release_Time;
+			Task_Metrics.Start_Tracking;
+         Current_Workload := Request_Buffer.Extract;
+			Task_Metrics.End_Tracking ("OCP Extract Workload");
 
          --  non-suspending operation code
          On_Call_Producer_Operation (Current_Workload);

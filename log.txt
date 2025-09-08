@@ -1,0 +1,2160 @@
+Delay_Until DM, ID-1
+Delay_Until DM, ID 1
+Initialize_Task_Table-1
+Interrupt generated
+Initialize_Task_Table 4
+Elapsed time for item EES AL Write: 0.000003322
+Initialize_Task_Table 1
+Elapsed time for item RP Small Whetstone: 0.140644850
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Initialize_Task_Table 2
+Initialize_Task_Table 3
+Task  1 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001067894, Min_WJ  0.141798378, Max_WJ  0.141798378, Average_WJ  0.141798378
+Task  2 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000051889, Max_WJ  0.000051889, Average_WJ  0.000051889
+Elapsed time for item RP Small Whetstone: 0.140645278
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-0.281909750
+Elapsed time for item OCP Small Whetstone: 0.142587211
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001368233, Min_WJ  0.141798378, Max_WJ  0.142162044, Average_WJ  0.141980211
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102764683, Max_RJ  24.102764683, Min_WJ  0.142712206, Max_WJ  0.142712206, Average_WJ  0.142712206
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000051889, Max_WJ  0.000051889, Average_WJ  0.000051889
+Elapsed time for item RP Small Whetstone: 0.140645122
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883878
+Elapsed time for item ALR Read: 0.000003256
+End of parameterless sporadic activation.         1
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001488178, Min_WJ  0.141798378, Max_WJ  0.142263706, Average_WJ  0.142074706
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102764683, Max_RJ  24.102764683, Min_WJ  0.142712206, Max_WJ  0.142712206, Average_WJ  0.142712206
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000049517, Max_RJ  0.000049517, Min_WJ  0.142030989, Max_WJ  0.142030989, Average_WJ  0.142030989
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000051889, Max_WJ  0.000051889, Average_WJ  0.000051889
+Elapsed time for item RP Small Whetstone: 0.140644994
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001603006, Min_WJ  0.141798378, Max_WJ  0.142343667, Average_WJ  0.142141944
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102764683, Max_RJ  24.102764683, Min_WJ  0.142712206, Max_WJ  0.142712206, Average_WJ  0.142712206
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000049517, Max_RJ  0.000049517, Min_WJ  0.142030989, Max_WJ  0.142030989, Average_WJ  0.142030989
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000051889, Max_WJ  0.000051889, Average_WJ  0.000051889
+Elapsed time for item RP Small Whetstone: 0.140645200
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-0.563297678
+Elapsed time for item OCP Small Whetstone: 0.142587561
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Interrupt generated
+Elapsed time for item EES AL Write: 0.000003322
+Task  1 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001603089, Min_WJ  0.141798378, Max_WJ  0.142386767, Average_WJ  0.142190906
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102764683, Max_RJ  25.245797311, Min_WJ  0.142712206, Max_WJ  0.142721711, Average_WJ  0.142716956
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000049517, Max_RJ  0.000049517, Min_WJ  0.142030989, Max_WJ  0.142030989, Average_WJ  0.142030989
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000047367
+Elapsed time for item RP Small Whetstone: 0.140645078
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883894
+Elapsed time for item ALR Read: 0.000003256
+End of parameterless sporadic activation.         2
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657028, Min_WJ  0.141798378, Max_WJ  0.142432522, Average_WJ  0.142231172
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102764683, Max_RJ  25.245797311, Min_WJ  0.142712206, Max_WJ  0.142721711, Average_WJ  0.142716956
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000049511, Max_RJ  0.000049517, Min_WJ  0.142030989, Max_WJ  0.142031022, Average_WJ  0.142031006
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000047367
+Elapsed time for item RP Small Whetstone: 0.140645167
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657028, Min_WJ  0.141798378, Max_WJ  0.142432522, Average_WJ  0.142247244
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102764683, Max_RJ  25.245797311, Min_WJ  0.142712206, Max_WJ  0.142721711, Average_WJ  0.142716956
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000049511, Max_RJ  0.000049517, Min_WJ  0.142030989, Max_WJ  0.142031022, Average_WJ  0.142031006
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000047367
+Elapsed time for item RP Small Whetstone: 0.140645128
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-0.844796217
+Elapsed time for item OCP Small Whetstone: 0.142587689
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657028, Min_WJ  0.141798378, Max_WJ  0.142432522, Average_WJ  0.142265906
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102764683, Max_RJ  28.246033478, Min_WJ  0.142712206, Max_WJ  0.142722683, Average_WJ  0.142718861
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000049511, Max_RJ  0.000049517, Min_WJ  0.142030989, Max_WJ  0.142031022, Average_WJ  0.142031006
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000047367
+Elapsed time for item RP Small Whetstone: 0.140645100
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883828
+Elapsed time for item ALR Read: 0.000003256
+End of parameterless sporadic activation.         2
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657028, Min_WJ  0.141798378, Max_WJ  0.142432522, Average_WJ  0.142277289
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102764683, Max_RJ  28.246033478, Min_WJ  0.142712206, Max_WJ  0.142722683, Average_WJ  0.142718861
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000049472, Max_RJ  0.000049517, Min_WJ  0.142030894, Max_WJ  0.142031022, Average_WJ  0.142030967
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000047367
+Elapsed time for item RP Small Whetstone: 0.140645050
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Interrupt generated
+Elapsed time for item EES AL Write: 0.000003322
+Task  1 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657028, Min_WJ  0.141798378, Max_WJ  0.142432522, Average_WJ  0.142282922
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102764683, Max_RJ  28.246033478, Min_WJ  0.142712206, Max_WJ  0.142722683, Average_WJ  0.142718861
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000049472, Max_RJ  0.000049517, Min_WJ  0.142030894, Max_WJ  0.142031022, Average_WJ  0.142030967
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000045856
+Elapsed time for item RP Small Whetstone: 0.140645078
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.126274667
+Elapsed time for item OCP Small Whetstone: 0.142587517
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  11, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657311, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142298194
+Task  2 - DM  0, Executions  4, Preemptions  0, Min_RJ  24.102764683, Max_RJ  31.246044222, Min_WJ  0.142712206, Max_WJ  0.142722989, Average_WJ  0.142719889
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000049472, Max_RJ  0.000049517, Min_WJ  0.142030894, Max_WJ  0.142031022, Average_WJ  0.142030967
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000045856
+Elapsed time for item RP Small Whetstone: 0.140645094
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883939
+Elapsed time for item ALR Read: 0.000003256
+End of parameterless sporadic activation.         3
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  12, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657311, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142304922
+Task  2 - DM  0, Executions  4, Preemptions  0, Min_RJ  24.102764683, Max_RJ  31.246044222, Min_WJ  0.142712206, Max_WJ  0.142722989, Average_WJ  0.142719889
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000049472, Max_RJ  0.000049517, Min_WJ  0.142030894, Max_WJ  0.142031022, Average_WJ  0.142030978
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000045856
+Elapsed time for item RP Small Whetstone: 0.140645133
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  13, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657311, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142307944
+Task  2 - DM  0, Executions  4, Preemptions  0, Min_RJ  24.102764683, Max_RJ  31.246044222, Min_WJ  0.142712206, Max_WJ  0.142722989, Average_WJ  0.142719889
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000049472, Max_RJ  0.000049517, Min_WJ  0.142030894, Max_WJ  0.142031022, Average_WJ  0.142030978
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000045856
+Elapsed time for item RP Small Whetstone: 0.140645100
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.407765728
+Elapsed time for item OCP Small Whetstone: 0.142587739
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  14, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657311, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142313589
+Task  2 - DM  0, Executions  5, Preemptions  0, Min_RJ  24.102764683, Max_RJ  34.246098911, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142720544
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000049472, Max_RJ  0.000049517, Min_WJ  0.142030894, Max_WJ  0.142031022, Average_WJ  0.142030978
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000045856
+Elapsed time for item RP Small Whetstone: 0.140645111
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883850
+Elapsed time for item ALR Read: 0.000003256
+End of parameterless sporadic activation.         3
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item EES AL Write: 0.000003322
+Task  1 - DM  0, Executions  15, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657311, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142317944
+Task  2 - DM  0, Executions  5, Preemptions  0, Min_RJ  24.102764683, Max_RJ  34.246098911, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142720544
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049517, Min_WJ  0.142020122, Max_WJ  0.142031022, Average_WJ  0.142028806
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000045100
+Elapsed time for item RP Small Whetstone: 0.140645139
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  16, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657311, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142322333
+Task  2 - DM  0, Executions  5, Preemptions  0, Min_RJ  24.102764683, Max_RJ  34.246098911, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142720544
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049517, Min_WJ  0.142020122, Max_WJ  0.142031022, Average_WJ  0.142028806
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000045100
+Elapsed time for item RP Small Whetstone: 0.140645044
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.689244900
+Elapsed time for item OCP Small Whetstone: 0.142587644
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  17, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657311, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142326128
+Task  2 - DM  0, Executions  6, Preemptions  0, Min_RJ  24.102764683, Max_RJ  37.246035211, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142719311
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049517, Min_WJ  0.142020122, Max_WJ  0.142031022, Average_WJ  0.142028806
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000045100
+Elapsed time for item RP Small Whetstone: 0.140645183
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883950
+Elapsed time for item ALR Read: 0.000003256
+End of parameterless sporadic activation.         4
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  18, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657311, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142328494
+Task  2 - DM  0, Executions  6, Preemptions  0, Min_RJ  24.102764683, Max_RJ  37.246035211, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142719311
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049517, Min_WJ  0.142020122, Max_WJ  0.142031022, Average_WJ  0.142027494
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000045100
+Elapsed time for item RP Small Whetstone: 0.140645128
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  19, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657311, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142328789
+Task  2 - DM  0, Executions  6, Preemptions  0, Min_RJ  24.102764683, Max_RJ  37.246035211, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142719311
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049517, Min_WJ  0.142020122, Max_WJ  0.142031022, Average_WJ  0.142027494
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000045100
+Elapsed time for item RP Small Whetstone: 0.140645156
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.970725383
+Elapsed time for item OCP Small Whetstone: 0.142587733
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Interrupt generated
+Elapsed time for item EES AL Write: 0.000003322
+Task  1 - DM  0, Executions  20, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657311, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142331694
+Task  2 - DM  0, Executions  7, Preemptions  0, Min_RJ  24.102764683, Max_RJ  40.246025067, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142719756
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049517, Min_WJ  0.142020122, Max_WJ  0.142031022, Average_WJ  0.142027494
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044644
+Elapsed time for item RP Small Whetstone: 0.140644994
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883894
+Elapsed time for item ALR Read: 0.000003256
+End of parameterless sporadic activation.         5
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  21, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657394, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142336506
+Task  2 - DM  0, Executions  7, Preemptions  0, Min_RJ  24.102764683, Max_RJ  40.246025067, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142719756
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049544, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142028000
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044644
+Elapsed time for item RP Small Whetstone: 0.140645078
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  22, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657394, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142336394
+Task  2 - DM  0, Executions  7, Preemptions  0, Min_RJ  24.102764683, Max_RJ  40.246025067, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142719756
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049544, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142028000
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044644
+Elapsed time for item RP Small Whetstone: 0.140645050
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-2.252194089
+Elapsed time for item OCP Small Whetstone: 0.142587761
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  23, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657394, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142338150
+Task  2 - DM  0, Executions  8, Preemptions  0, Min_RJ  24.102764683, Max_RJ  43.246034372, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142720178
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049544, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142028000
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044644
+Elapsed time for item RP Small Whetstone: 0.140645017
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883800
+Elapsed time for item ALR Read: 0.000003256
+End of parameterless sporadic activation.         5
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  24, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657394, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142339006
+Task  2 - DM  0, Executions  8, Preemptions  0, Min_RJ  24.102764683, Max_RJ  43.246034372, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142720178
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142027111
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044644
+Elapsed time for item RP Small Whetstone: 0.140645194
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Interrupt generated
+Elapsed time for item EES AL Write: 0.000003322
+Task  1 - DM  0, Executions  25, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657394, Min_WJ  0.141798378, Max_WJ  0.142450922, Average_WJ  0.142339211
+Task  2 - DM  0, Executions  8, Preemptions  0, Min_RJ  24.102764683, Max_RJ  43.246034372, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142720178
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142027111
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044344
+Elapsed time for item RP Small Whetstone: 0.140644989
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-2.533673011
+Elapsed time for item OCP Small Whetstone: 0.142587750
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  26, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657400, Min_WJ  0.141798378, Max_WJ  0.142450961, Average_WJ  0.142343506
+Task  2 - DM  0, Executions  9, Preemptions  0, Min_RJ  24.102764683, Max_RJ  46.246025017, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142719394
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142027111
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044344
+Elapsed time for item RP Small Whetstone: 0.140645089
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883883
+Elapsed time for item ALR Read: 0.000003256
+End of parameterless sporadic activation.         6
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  27, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657400, Min_WJ  0.141798378, Max_WJ  0.142450961, Average_WJ  0.142344444
+Task  2 - DM  0, Executions  9, Preemptions  0, Min_RJ  24.102764683, Max_RJ  46.246025017, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142719394
+Task  3 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142027539
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044344
+Elapsed time for item RP Small Whetstone: 0.140645106
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  28, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657400, Min_WJ  0.141798378, Max_WJ  0.142450961, Average_WJ  0.142344072
+Task  2 - DM  0, Executions  9, Preemptions  0, Min_RJ  24.102764683, Max_RJ  46.246025017, Min_WJ  0.142712206, Max_WJ  0.142723172, Average_WJ  0.142719394
+Task  3 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142027539
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044344
+Elapsed time for item RP Small Whetstone: 0.140645278
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-2.815153906
+Elapsed time for item OCP Small Whetstone: 0.142587756
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  29, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657400, Min_WJ  0.141798378, Max_WJ  0.142450961, Average_WJ  0.142345556
+Task  2 - DM  0, Executions  10, Preemptions  0, Min_RJ  24.102764683, Max_RJ  49.246089106, Min_WJ  0.142712206, Max_WJ  0.142723239, Average_WJ  0.142719778
+Task  3 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142027539
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044344
+Elapsed time for item RP Small Whetstone: 0.140645044
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883828
+Elapsed time for item ALR Read: 0.000003256
+End of parameterless sporadic activation.         6
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item EES AL Write: 0.000003322
+Task  1 - DM  0, Executions  30, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657400, Min_WJ  0.141798378, Max_WJ  0.142450961, Average_WJ  0.142346339
+Task  2 - DM  0, Executions  10, Preemptions  0, Min_RJ  24.102764683, Max_RJ  49.246089106, Min_WJ  0.142712206, Max_WJ  0.142723239, Average_WJ  0.142719778
+Task  3 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142027800
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044128
+Elapsed time for item RP Small Whetstone: 0.140645033
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  31, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657400, Min_WJ  0.141798378, Max_WJ  0.142450961, Average_WJ  0.142347378
+Task  2 - DM  0, Executions  10, Preemptions  0, Min_RJ  24.102764683, Max_RJ  49.246089106, Min_WJ  0.142712206, Max_WJ  0.142723239, Average_WJ  0.142719778
+Task  3 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142027800
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044128
+Elapsed time for item RP Small Whetstone: 0.140645206
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-3.096604300
+Elapsed time for item OCP Small Whetstone: 0.142587739
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  32, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657400, Min_WJ  0.141798378, Max_WJ  0.142450961, Average_WJ  0.142348322
+Task  2 - DM  0, Executions  11, Preemptions  0, Min_RJ  24.102764683, Max_RJ  52.246035472, Min_WJ  0.142712206, Max_WJ  0.142723239, Average_WJ  0.142719167
+Task  3 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142027800
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044128
+Elapsed time for item RP Small Whetstone: 0.140645206
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883944
+Elapsed time for item ALR Read: 0.000003256
+End of parameterless sporadic activation.         7
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  33, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657400, Min_WJ  0.141798378, Max_WJ  0.142450961, Average_WJ  0.142348661
+Task  2 - DM  0, Executions  11, Preemptions  0, Min_RJ  24.102764683, Max_RJ  52.246035472, Min_WJ  0.142712206, Max_WJ  0.142723239, Average_WJ  0.142719167
+Task  3 - DM  0, Executions  11, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142028094
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044128
+Elapsed time for item RP Small Whetstone: 0.140645017
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  34, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657400, Min_WJ  0.141798378, Max_WJ  0.142450961, Average_WJ  0.142348250
+Task  2 - DM  0, Executions  11, Preemptions  0, Min_RJ  24.102764683, Max_RJ  52.246035472, Min_WJ  0.142712206, Max_WJ  0.142723239, Average_WJ  0.142719167
+Task  3 - DM  0, Executions  11, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142028094
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000044128
+Elapsed time for item RP Small Whetstone: 0.140645172
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-3.378066761
+Elapsed time for item OCP Small Whetstone: 0.142587517
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Interrupt generated
+Elapsed time for item EES AL Write: 0.000003322
+Task  1 - DM  0, Executions  35, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657400, Min_WJ  0.141798378, Max_WJ  0.142450961, Average_WJ  0.142349089
+Task  2 - DM  0, Executions  12, Preemptions  0, Min_RJ  24.102764683, Max_RJ  55.246015733, Min_WJ  0.142712206, Max_WJ  0.142723239, Average_WJ  0.142719411
+Task  3 - DM  0, Executions  11, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142028094
+Task  4 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000043967
+Elapsed time for item RP Small Whetstone: 0.140645100
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883767
+Elapsed time for item ALR Read: 0.000003256
+End of parameterless sporadic activation.         8
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  36, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657400, Min_WJ  0.141798378, Max_WJ  0.142450961, Average_WJ  0.142350872
+Task  2 - DM  0, Executions  12, Preemptions  0, Min_RJ  24.102764683, Max_RJ  55.246015733, Min_WJ  0.142712206, Max_WJ  0.142723239, Average_WJ  0.142719411
+Task  3 - DM  0, Executions  12, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142028328
+Task  4 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000043967
+Elapsed time for item RP Small Whetstone: 0.140645044
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  37, Preemptions  0, Min_RJ  0.001067894, Max_RJ  0.001657400, Min_WJ  0.141798378, Max_WJ  0.142450961, Average_WJ  0.142350433
+Task  2 - DM  0, Executions  12, Preemptions  0, Min_RJ  24.102764683, Max_RJ  55.246015733, Min_WJ  0.142712206, Max_WJ  0.142723239, Average_WJ  0.142719411
+Task  3 - DM  0, Executions  12, Preemptions  0, Min_RJ  0.000048733, Max_RJ  0.000049583, Min_WJ  0.142020122, Max_WJ  0.142031056, Average_WJ  0.142028328
+Task  4 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000042844, Max_WJ  0.000051889, Average_WJ  0.000043967
+Elapsed time for item RP Small Whetstone: 0.140645050
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RP RB Deposit: 0.000005111
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-3.659517672
+Elapsed time for item OCP Small Whetstone: 0.142587661
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Delay_Until DM, ID-1
+Delay_Until DM, ID 1
+Initialize_Task_Table-1
+Interrupt generated
+Initialize_Task_Table 4
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Initialize_Task_Table 1
+Elapsed time for item RP Small Whetstone: 0.140644733
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Initialize_Task_Table 2
+Initialize_Task_Table 3
+Task  1 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001096783, Min_WJ  0.141837189, Max_WJ  0.141837189, Average_WJ  0.141837189
+Task  2 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645028
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-0.281976883
+Elapsed time for item OCP Small Whetstone: 0.142587311
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001368494, Min_WJ  0.141837189, Max_WJ  0.142219561, Average_WJ  0.142028372
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102803189, Max_RJ  24.102803189, Min_WJ  0.142722333, Max_WJ  0.142722333, Average_WJ  0.142722333
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645122
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883811
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         1
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001488744, Min_WJ  0.141837189, Max_WJ  0.142264272, Average_WJ  0.142107006
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102803189, Max_RJ  24.102803189, Min_WJ  0.142722333, Max_WJ  0.142722333, Average_WJ  0.142722333
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000049606, Max_RJ  0.000049606, Min_WJ  0.142059517, Max_WJ  0.142059517, Average_WJ  0.142059517
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645033
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001603556, Min_WJ  0.141837189, Max_WJ  0.142344261, Average_WJ  0.142166317
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102803189, Max_RJ  24.102803189, Min_WJ  0.142722333, Max_WJ  0.142722333, Average_WJ  0.142722333
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000049606, Max_RJ  0.000049606, Min_WJ  0.142059517, Max_WJ  0.142059517, Average_WJ  0.142059517
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645122
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-0.563422739
+Elapsed time for item OCP Small Whetstone: 0.142587639
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001603556, Min_WJ  0.141837189, Max_WJ  0.142454617, Average_WJ  0.142223972
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102803189, Max_RJ  25.245864656, Min_WJ  0.142721839, Max_WJ  0.142722333, Average_WJ  0.142722083
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000049606, Max_RJ  0.000049606, Min_WJ  0.142059517, Max_WJ  0.142059517, Average_WJ  0.142059517
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645017
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883828
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         2
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676006, Min_WJ  0.141837189, Max_WJ  0.142454617, Average_WJ  0.142261883
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102803189, Max_RJ  25.245864656, Min_WJ  0.142721839, Max_WJ  0.142722333, Average_WJ  0.142722083
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000049550, Max_RJ  0.000049606, Min_WJ  0.142059456, Max_WJ  0.142059517, Average_WJ  0.142059483
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645189
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676006, Min_WJ  0.141837189, Max_WJ  0.142454617, Average_WJ  0.142270800
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102803189, Max_RJ  25.245864656, Min_WJ  0.142721839, Max_WJ  0.142722333, Average_WJ  0.142722083
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000049550, Max_RJ  0.000049606, Min_WJ  0.142059456, Max_WJ  0.142059517, Average_WJ  0.142059483
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645128
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-0.844919000
+Elapsed time for item OCP Small Whetstone: 0.142587617
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676006, Min_WJ  0.141837189, Max_WJ  0.142454617, Average_WJ  0.142290006
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102803189, Max_RJ  28.246101156, Min_WJ  0.142712522, Max_WJ  0.142722333, Average_WJ  0.142718894
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000049550, Max_RJ  0.000049606, Min_WJ  0.142059456, Max_WJ  0.142059517, Average_WJ  0.142059483
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645250
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883817
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         2
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676006, Min_WJ  0.141837189, Max_WJ  0.142454617, Average_WJ  0.142296550
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102803189, Max_RJ  28.246101156, Min_WJ  0.142712522, Max_WJ  0.142722333, Average_WJ  0.142718894
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000049483, Max_RJ  0.000049606, Min_WJ  0.142059383, Max_WJ  0.142059517, Average_WJ  0.142059450
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645128
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676006, Min_WJ  0.141837189, Max_WJ  0.142454617, Average_WJ  0.142298306
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102803189, Max_RJ  28.246101156, Min_WJ  0.142712522, Max_WJ  0.142722333, Average_WJ  0.142718894
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000049483, Max_RJ  0.000049606, Min_WJ  0.142059383, Max_WJ  0.142059517, Average_WJ  0.142059450
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645206
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.126415728
+Elapsed time for item OCP Small Whetstone: 0.142587550
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  11, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676372, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142319150
+Task  2 - DM  0, Executions  4, Preemptions  0, Min_RJ  24.102803189, Max_RJ  31.246061700, Min_WJ  0.142712522, Max_WJ  0.142722333, Average_WJ  0.142717400
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000049483, Max_RJ  0.000049606, Min_WJ  0.142059383, Max_WJ  0.142059517, Average_WJ  0.142059450
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645017
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883806
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         3
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  12, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676372, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142320800
+Task  2 - DM  0, Executions  4, Preemptions  0, Min_RJ  24.102803189, Max_RJ  31.246061700, Min_WJ  0.142712522, Max_WJ  0.142722333, Average_WJ  0.142717400
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000049483, Max_RJ  0.000049606, Min_WJ  0.142059383, Max_WJ  0.142059517, Average_WJ  0.142059456
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645106
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  13, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676372, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142320306
+Task  2 - DM  0, Executions  4, Preemptions  0, Min_RJ  24.102803189, Max_RJ  31.246061700, Min_WJ  0.142712522, Max_WJ  0.142722333, Average_WJ  0.142717400
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000049483, Max_RJ  0.000049606, Min_WJ  0.142059383, Max_WJ  0.142059517, Average_WJ  0.142059456
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645217
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.407894111
+Elapsed time for item OCP Small Whetstone: 0.142587522
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  14, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676372, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142328489
+Task  2 - DM  0, Executions  5, Preemptions  0, Min_RJ  24.102803189, Max_RJ  34.246165217, Min_WJ  0.142712522, Max_WJ  0.142722972, Average_WJ  0.142718511
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000049483, Max_RJ  0.000049606, Min_WJ  0.142059383, Max_WJ  0.142059517, Average_WJ  0.142059456
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645094
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883894
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         3
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  15, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676372, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142331872
+Task  2 - DM  0, Executions  5, Preemptions  0, Min_RJ  24.102803189, Max_RJ  34.246165217, Min_WJ  0.142712522, Max_WJ  0.142722972, Average_WJ  0.142718511
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059300
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645278
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  16, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676372, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142337206
+Task  2 - DM  0, Executions  5, Preemptions  0, Min_RJ  24.102803189, Max_RJ  34.246165217, Min_WJ  0.142712522, Max_WJ  0.142722972, Average_WJ  0.142718511
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059300
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645061
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.689431078
+Elapsed time for item OCP Small Whetstone: 0.142587594
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  17, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676372, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142343528
+Task  2 - DM  0, Executions  6, Preemptions  0, Min_RJ  24.102803189, Max_RJ  37.246082583, Min_WJ  0.142712522, Max_WJ  0.142723011, Average_WJ  0.142719261
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059300
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645089
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883894
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         4
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  18, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676372, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142344950
+Task  2 - DM  0, Executions  6, Preemptions  0, Min_RJ  24.102803189, Max_RJ  37.246082583, Min_WJ  0.142712522, Max_WJ  0.142723011, Average_WJ  0.142719261
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059328
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645150
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  19, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676372, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142343861
+Task  2 - DM  0, Executions  6, Preemptions  0, Min_RJ  24.102803189, Max_RJ  37.246082583, Min_WJ  0.142712522, Max_WJ  0.142723011, Average_WJ  0.142719261
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059328
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645156
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.970959300
+Elapsed time for item OCP Small Whetstone: 0.142587667
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  20, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001676372, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142349411
+Task  2 - DM  0, Executions  7, Preemptions  0, Min_RJ  24.102803189, Max_RJ  40.246092444, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142718261
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059328
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645233
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883894
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         5
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  21, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686217, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142354761
+Task  2 - DM  0, Executions  7, Preemptions  0, Min_RJ  24.102803189, Max_RJ  40.246092444, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142718261
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059350
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645139
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  22, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686217, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142353833
+Task  2 - DM  0, Executions  7, Preemptions  0, Min_RJ  24.102803189, Max_RJ  40.246092444, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142718261
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059350
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645133
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-2.252505900
+Elapsed time for item OCP Small Whetstone: 0.142587678
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  23, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686217, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142357783
+Task  2 - DM  0, Executions  8, Preemptions  0, Min_RJ  24.102803189, Max_RJ  43.246091856, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142717617
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059350
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645094
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883956
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         5
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  24, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686217, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142358250
+Task  2 - DM  0, Executions  8, Preemptions  0, Min_RJ  24.102803189, Max_RJ  43.246091856, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142717617
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059367
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645056
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  25, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686217, Min_WJ  0.141837189, Max_WJ  0.142527611, Average_WJ  0.142357294
+Task  2 - DM  0, Executions  8, Preemptions  0, Min_RJ  24.102803189, Max_RJ  43.246091856, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142717617
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059367
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072928
+Elapsed time for item RP Small Whetstone: 0.140645122
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-2.534052511
+Elapsed time for item OCP Small Whetstone: 0.142587550
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  26, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142364222
+Task  2 - DM  0, Executions  9, Preemptions  0, Min_RJ  24.102803189, Max_RJ  46.246082533, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142717089
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059367
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072928
+Elapsed time for item RP Small Whetstone: 0.140645167
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883917
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         6
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  27, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142364778
+Task  2 - DM  0, Executions  9, Preemptions  0, Min_RJ  24.102803189, Max_RJ  46.246082533, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142717089
+Task  3 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059378
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072928
+Elapsed time for item RP Small Whetstone: 0.140645161
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  28, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142364050
+Task  2 - DM  0, Executions  9, Preemptions  0, Min_RJ  24.102803189, Max_RJ  46.246082533, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142717089
+Task  3 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059378
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072928
+Elapsed time for item RP Small Whetstone: 0.140645072
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-2.815611067
+Elapsed time for item OCP Small Whetstone: 0.142587539
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  29, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142366828
+Task  2 - DM  0, Executions  10, Preemptions  0, Min_RJ  24.102803189, Max_RJ  49.246175067, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142717672
+Task  3 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058683, Max_WJ  0.142059517, Average_WJ  0.142059378
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072928
+Elapsed time for item RP Small Whetstone: 0.140645011
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883856
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         6
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  30, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142367250
+Task  2 - DM  0, Executions  10, Preemptions  0, Min_RJ  24.102803189, Max_RJ  49.246175067, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142717672
+Task  3 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058661, Max_WJ  0.142059517, Average_WJ  0.142059306
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072711
+Elapsed time for item RP Small Whetstone: 0.140645178
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  31, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142368878
+Task  2 - DM  0, Executions  10, Preemptions  0, Min_RJ  24.102803189, Max_RJ  49.246175067, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142717672
+Task  3 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058661, Max_WJ  0.142059517, Average_WJ  0.142059306
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072711
+Elapsed time for item RP Small Whetstone: 0.140645022
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-3.097159539
+Elapsed time for item OCP Small Whetstone: 0.142587506
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  32, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142371583
+Task  2 - DM  0, Executions  11, Preemptions  0, Min_RJ  24.102803189, Max_RJ  52.246092400, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142718150
+Task  3 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058661, Max_WJ  0.142059517, Average_WJ  0.142059306
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072711
+Elapsed time for item RP Small Whetstone: 0.140645189
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883911
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         7
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  33, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142371228
+Task  2 - DM  0, Executions  11, Preemptions  0, Min_RJ  24.102803189, Max_RJ  52.246092400, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142718150
+Task  3 - DM  0, Executions  11, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058661, Max_WJ  0.142059517, Average_WJ  0.142059317
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072711
+Elapsed time for item RP Small Whetstone: 0.140645206
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  34, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142369867
+Task  2 - DM  0, Executions  11, Preemptions  0, Min_RJ  24.102803189, Max_RJ  52.246092400, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142718150
+Task  3 - DM  0, Executions  11, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058661, Max_WJ  0.142059517, Average_WJ  0.142059317
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072711
+Elapsed time for item RP Small Whetstone: 0.140645200
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-3.378649711
+Elapsed time for item OCP Small Whetstone: 0.142587689
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  35, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142371450
+Task  2 - DM  0, Executions  12, Preemptions  0, Min_RJ  24.102803189, Max_RJ  55.246103117, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142718494
+Task  3 - DM  0, Executions  11, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058661, Max_WJ  0.142059517, Average_WJ  0.142059317
+Task  4 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072550
+Elapsed time for item RP Small Whetstone: 0.140645050
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883828
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         8
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  36, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142373139
+Task  2 - DM  0, Executions  12, Preemptions  0, Min_RJ  24.102803189, Max_RJ  55.246103117, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142718494
+Task  3 - DM  0, Executions  12, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058661, Max_WJ  0.142059517, Average_WJ  0.142059322
+Task  4 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072550
+Elapsed time for item RP Small Whetstone: 0.140645144
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  37, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142372111
+Task  2 - DM  0, Executions  12, Preemptions  0, Min_RJ  24.102803189, Max_RJ  55.246103117, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142718494
+Task  3 - DM  0, Executions  12, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058661, Max_WJ  0.142059517, Average_WJ  0.142059322
+Task  4 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072550
+Elapsed time for item RP Small Whetstone: 0.140645161
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-3.660158472
+Elapsed time for item OCP Small Whetstone: 0.142587550
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  38, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686328, Min_WJ  0.141837189, Max_WJ  0.142537478, Average_WJ  0.142374039
+Task  2 - DM  0, Executions  13, Preemptions  0, Min_RJ  24.102803189, Max_RJ  58.246072394, Min_WJ  0.142712261, Max_WJ  0.142723011, Average_WJ  0.142718061
+Task  3 - DM  0, Executions  12, Preemptions  0, Min_RJ  0.000048689, Max_RJ  0.000049606, Min_WJ  0.142058661, Max_WJ  0.142059517, Average_WJ  0.142059322
+Task  4 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072550
+Elapsed time for item RP Small Whetstone: 0.140645233
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883950
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         8
+Elapsed time for item ALR Put Line: 0.000008222
+Delay_Until DM, ID-1
+Delay_Until DM, ID 1
+Initialize_Task_Table-1
+Interrupt generated
+Initialize_Task_Table 4
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Initialize_Task_Table 1
+Elapsed time for item RP Small Whetstone: 0.140644733
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Initialize_Task_Table 2
+Initialize_Task_Table 3
+Task  1 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001096783, Min_WJ  0.141837189, Max_WJ  0.141837189, Average_WJ  0.141837189
+Task  2 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645028
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item Extract Workload:-0.281976917
+Elapsed time for item OCP Small Whetstone: 0.142587200
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001368494, Min_WJ  0.141837189, Max_WJ  0.142219561, Average_WJ  0.142028372
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102803189, Max_RJ  24.102803189, Min_WJ  0.142711744, Max_WJ  0.142711744, Average_WJ  0.142711744
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645156
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883894
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         1
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001488711, Min_WJ  0.141837189, Max_WJ  0.142264278, Average_WJ  0.142107006
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102803189, Max_RJ  24.102803189, Min_WJ  0.142711744, Max_WJ  0.142711744, Average_WJ  0.142711744
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000049517, Max_RJ  0.000049517, Min_WJ  0.142059511, Max_WJ  0.142059511, Average_WJ  0.142059511
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645206
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001603383, Min_WJ  0.141837189, Max_WJ  0.142344272, Average_WJ  0.142166322
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102803189, Max_RJ  24.102803189, Min_WJ  0.142711744, Max_WJ  0.142711744, Average_WJ  0.142711744
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000049517, Max_RJ  0.000049517, Min_WJ  0.142059511, Max_WJ  0.142059511, Average_WJ  0.142059511
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645189
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item Extract Workload:-0.563433361
+Elapsed time for item OCP Small Whetstone: 0.142587772
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001603400, Min_WJ  0.141837189, Max_WJ  0.142454667, Average_WJ  0.142223989
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102803189, Max_RJ  25.245854078, Min_WJ  0.142711744, Max_WJ  0.142721539, Average_WJ  0.142716639
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000049517, Max_RJ  0.000049517, Min_WJ  0.142059511, Max_WJ  0.142059511, Average_WJ  0.142059511
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645250
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883794
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         2
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001665900, Min_WJ  0.141837189, Max_WJ  0.142454667, Average_WJ  0.142258572
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102803189, Max_RJ  25.245854078, Min_WJ  0.142711744, Max_WJ  0.142721539, Average_WJ  0.142716639
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000049506, Max_RJ  0.000049517, Min_WJ  0.142059400, Max_WJ  0.142059511, Average_WJ  0.142059456
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645144
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001665900, Min_WJ  0.141837189, Max_WJ  0.142454667, Average_WJ  0.142266500
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102803189, Max_RJ  25.245854078, Min_WJ  0.142711744, Max_WJ  0.142721539, Average_WJ  0.142716639
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000049506, Max_RJ  0.000049517, Min_WJ  0.142059400, Max_WJ  0.142059511, Average_WJ  0.142059456
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645061
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item Extract Workload:-0.844889550
+Elapsed time for item OCP Small Whetstone: 0.142587733
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001665900, Min_WJ  0.141837189, Max_WJ  0.142454667, Average_WJ  0.142284972
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102803189, Max_RJ  28.246100917, Min_WJ  0.142711744, Max_WJ  0.142721539, Average_WJ  0.142715194
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000049506, Max_RJ  0.000049517, Min_WJ  0.142059400, Max_WJ  0.142059511, Average_WJ  0.142059456
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645206
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883911
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         2
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001665900, Min_WJ  0.141837189, Max_WJ  0.142454667, Average_WJ  0.142292067
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102803189, Max_RJ  28.246100917, Min_WJ  0.142711744, Max_WJ  0.142721539, Average_WJ  0.142715194
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000049478, Max_RJ  0.000049517, Min_WJ  0.142059400, Max_WJ  0.142059511, Average_WJ  0.142059467
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645172
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001665900, Min_WJ  0.141837189, Max_WJ  0.142454667, Average_WJ  0.142294267
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102803189, Max_RJ  28.246100917, Min_WJ  0.142711744, Max_WJ  0.142721539, Average_WJ  0.142715194
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000049478, Max_RJ  0.000049517, Min_WJ  0.142059400, Max_WJ  0.142059511, Average_WJ  0.142059467
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645172
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item Extract Workload:-1.126376267
+Elapsed time for item OCP Small Whetstone: 0.142587639
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  11, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001666272, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142314556
+Task  2 - DM  0, Executions  4, Preemptions  0, Min_RJ  24.102803189, Max_RJ  31.246051294, Min_WJ  0.142711744, Max_WJ  0.142722678, Average_WJ  0.142717061
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000049478, Max_RJ  0.000049517, Min_WJ  0.142059400, Max_WJ  0.142059511, Average_WJ  0.142059467
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645278
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883906
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         3
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  12, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001666272, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142319122
+Task  2 - DM  0, Executions  4, Preemptions  0, Min_RJ  24.102803189, Max_RJ  31.246051294, Min_WJ  0.142711744, Max_WJ  0.142722678, Average_WJ  0.142717061
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000049478, Max_RJ  0.000049517, Min_WJ  0.142059400, Max_WJ  0.142059511, Average_WJ  0.142059461
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645267
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  13, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001666272, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142320317
+Task  2 - DM  0, Executions  4, Preemptions  0, Min_RJ  24.102803189, Max_RJ  31.246051294, Min_WJ  0.142711744, Max_WJ  0.142722678, Average_WJ  0.142717061
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000049478, Max_RJ  0.000049517, Min_WJ  0.142059400, Max_WJ  0.142059511, Average_WJ  0.142059461
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645006
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item Extract Workload:-1.407905417
+Elapsed time for item OCP Small Whetstone: 0.142587606
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  14, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001666272, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142329200
+Task  2 - DM  0, Executions  5, Preemptions  0, Min_RJ  24.102803189, Max_RJ  34.246164861, Min_WJ  0.142711744, Max_WJ  0.142722678, Average_WJ  0.142718183
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000049478, Max_RJ  0.000049517, Min_WJ  0.142059400, Max_WJ  0.142059511, Average_WJ  0.142059461
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645267
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883817
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         3
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  15, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001666272, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142331206
+Task  2 - DM  0, Executions  5, Preemptions  0, Min_RJ  24.102803189, Max_RJ  34.246164861, Min_WJ  0.142711744, Max_WJ  0.142722678, Average_WJ  0.142718183
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048722, Max_RJ  0.000049517, Min_WJ  0.142058622, Max_WJ  0.142059511, Average_WJ  0.142059289
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645044
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  16, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686406, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142337200
+Task  2 - DM  0, Executions  5, Preemptions  0, Min_RJ  24.102803189, Max_RJ  34.246164861, Min_WJ  0.142711744, Max_WJ  0.142722678, Average_WJ  0.142718183
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048722, Max_RJ  0.000049517, Min_WJ  0.142058622, Max_WJ  0.142059511, Average_WJ  0.142059289
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645244
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item Extract Workload:-1.689432894
+Elapsed time for item OCP Small Whetstone: 0.142587706
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  17, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686406, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142343539
+Task  2 - DM  0, Executions  6, Preemptions  0, Min_RJ  24.102803189, Max_RJ  37.246092122, Min_WJ  0.142711744, Max_WJ  0.142722694, Average_WJ  0.142718933
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048722, Max_RJ  0.000049517, Min_WJ  0.142058622, Max_WJ  0.142059511, Average_WJ  0.142059289
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645256
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883889
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         4
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  18, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686406, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142345539
+Task  2 - DM  0, Executions  6, Preemptions  0, Min_RJ  24.102803189, Max_RJ  37.246092122, Min_WJ  0.142711744, Max_WJ  0.142722694, Average_WJ  0.142718933
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048722, Max_RJ  0.000049528, Min_WJ  0.142058622, Max_WJ  0.142059511, Average_WJ  0.142059322
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645044
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  19, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686406, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142345483
+Task  2 - DM  0, Executions  6, Preemptions  0, Min_RJ  24.102803189, Max_RJ  37.246092122, Min_WJ  0.142711744, Max_WJ  0.142722694, Average_WJ  0.142718933
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048722, Max_RJ  0.000049528, Min_WJ  0.142058622, Max_WJ  0.142059511, Average_WJ  0.142059322
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645056
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item Extract Workload:-1.970991972
+Elapsed time for item OCP Small Whetstone: 0.142587578
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  20, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686406, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142350950
+Task  2 - DM  0, Executions  7, Preemptions  0, Min_RJ  24.102803189, Max_RJ  40.246092428, Min_WJ  0.142711744, Max_WJ  0.142722694, Average_WJ  0.142719344
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048722, Max_RJ  0.000049528, Min_WJ  0.142058622, Max_WJ  0.142059511, Average_WJ  0.142059322
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645172
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883883
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         5
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  21, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686406, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142355761
+Task  2 - DM  0, Executions  7, Preemptions  0, Min_RJ  24.102803189, Max_RJ  40.246092428, Min_WJ  0.142711744, Max_WJ  0.142722694, Average_WJ  0.142719344
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048722, Max_RJ  0.000049533, Min_WJ  0.142058622, Max_WJ  0.142059522, Average_WJ  0.142059350
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645172
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  22, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686406, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142354800
+Task  2 - DM  0, Executions  7, Preemptions  0, Min_RJ  24.102803189, Max_RJ  40.246092428, Min_WJ  0.142711744, Max_WJ  0.142722694, Average_WJ  0.142719344
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048722, Max_RJ  0.000049533, Min_WJ  0.142058622, Max_WJ  0.142059522, Average_WJ  0.142059350
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645067
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item Extract Workload:-2.252509556
+Elapsed time for item OCP Small Whetstone: 0.142587667
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  23, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686406, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142358278
+Task  2 - DM  0, Executions  8, Preemptions  0, Min_RJ  24.102803189, Max_RJ  43.246101433, Min_WJ  0.142711744, Max_WJ  0.142722694, Average_WJ  0.142719761
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048722, Max_RJ  0.000049533, Min_WJ  0.142058622, Max_WJ  0.142059522, Average_WJ  0.142059350
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645228
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883911
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         5
+Elapsed time for item ALR Put Line: 0.000008222
+Task  1 - DM  0, Executions  24, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686406, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142358739
+Task  2 - DM  0, Executions  8, Preemptions  0, Min_RJ  24.102803189, Max_RJ  43.246101433, Min_WJ  0.142711744, Max_WJ  0.142722694, Average_WJ  0.142719761
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048722, Max_RJ  0.000049533, Min_WJ  0.142058622, Max_WJ  0.142059522, Average_WJ  0.142059367
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645011
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  25, Preemptions  0, Min_RJ  0.001096783, Max_RJ  0.001686406, Min_WJ  0.141837189, Max_WJ  0.142517472, Average_WJ  0.142358167
+Task  2 - DM  0, Executions  8, Preemptions  0, Min_RJ  24.102803189, Max_RJ  43.246101433, Min_WJ  0.142711744, Max_WJ  0.142722694, Average_WJ  0.142719761
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048722, Max_RJ  0.000049533, Min_WJ  0.142058622, Max_WJ  0.142059522, Average_WJ  0.142059367
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072928
+Elapsed time for item RP Small Whetstone: 0.140645267
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item Extract Workload:-2.534057283
+Elapsed time for item OCP Small Whetstone: 0.142587594
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Delay_Until DM, ID-1
+Delay_Until DM, ID 1
+Initialize_Task_Table-1
+Interrupt generated
+Initialize_Task_Table 4
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Initialize_Task_Table 1
+Elapsed time for item RP Small Whetstone: 0.140644739
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Initialize_Task_Table 2
+Initialize_Task_Table 3
+Task  1 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001096778, Min_WJ  0.141837244, Max_WJ  0.141837244, Average_WJ  0.141837244
+Task  2 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645289
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-0.281977272
+Elapsed time for item OCP Small Whetstone: 0.142587261
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001368522, Min_WJ  0.141837244, Max_WJ  0.142219889, Average_WJ  0.142028567
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102803244, Max_RJ  24.102803244, Min_WJ  0.142722289, Max_WJ  0.142722289, Average_WJ  0.142722289
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645078
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001488789, Min_WJ  0.141837244, Max_WJ  0.142229556, Average_WJ  0.142095561
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102803244, Max_RJ  24.102803244, Min_WJ  0.142722289, Max_WJ  0.142722289, Average_WJ  0.142722289
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645150
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001488789, Min_WJ  0.141837244, Max_WJ  0.142229556, Average_WJ  0.142126544
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102803244, Max_RJ  24.102803244, Min_WJ  0.142722289, Max_WJ  0.142722289, Average_WJ  0.142722289
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645106
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+Signal
+Elapsed time for item RP ALR Signal: 0.000006994
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-0.563183644
+Elapsed time for item OCP Small Whetstone: 0.142587561
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Elapsed time for item ALR Small Whetstone: 0.141883550
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         1
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001488789, Min_WJ  0.141837244, Max_WJ  0.142374667, Average_WJ  0.142176167
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102803244, Max_RJ  25.245864939, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142739389
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.142742128, Max_RJ  0.142742128, Min_WJ  0.284742017, Max_WJ  0.284742017, Average_WJ  0.284742017
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645139
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001678983, Min_WJ  0.141837244, Max_WJ  0.142419850, Average_WJ  0.142216778
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102803244, Max_RJ  25.245864939, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142739389
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.142742128, Max_RJ  0.142742128, Min_WJ  0.284742017, Max_WJ  0.284742017, Average_WJ  0.284742017
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645072
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001678983, Min_WJ  0.141837244, Max_WJ  0.142419850, Average_WJ  0.142232528
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102803244, Max_RJ  25.245864939, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142739389
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.142742128, Max_RJ  0.142742128, Min_WJ  0.284742017, Max_WJ  0.284742017, Average_WJ  0.284742017
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645072
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-0.844664133
+Elapsed time for item OCP Small Whetstone: 0.142587694
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001678983, Min_WJ  0.141837244, Max_WJ  0.142437411, Average_WJ  0.142258133
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102803244, Max_RJ  28.246021083, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142733828
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.142742128, Max_RJ  0.142742128, Min_WJ  0.284742017, Max_WJ  0.284742017, Average_WJ  0.284742017
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645200
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001678983, Min_WJ  0.141837244, Max_WJ  0.142437411, Average_WJ  0.142265800
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102803244, Max_RJ  28.246021083, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142733828
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.142742128, Max_RJ  0.142742128, Min_WJ  0.284742017, Max_WJ  0.284742017, Average_WJ  0.284742017
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645133
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883906
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         2
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001678983, Min_WJ  0.141837244, Max_WJ  0.142437411, Average_WJ  0.142275394
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102803244, Max_RJ  28.246021083, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142733828
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742128, Min_WJ  0.142058656, Max_WJ  0.284742017, Average_WJ  0.213400333
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645022
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.126187872
+Elapsed time for item OCP Small Whetstone: 0.142587567
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  11, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687817, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142299344
+Task  2 - DM  0, Executions  4, Preemptions  0, Min_RJ  24.102803244, Max_RJ  31.246084800, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142731117
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742128, Min_WJ  0.142058656, Max_WJ  0.284742017, Average_WJ  0.213400333
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645233
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  12, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687817, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142302406
+Task  2 - DM  0, Executions  4, Preemptions  0, Min_RJ  24.102803244, Max_RJ  31.246084800, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142731117
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742128, Min_WJ  0.142058656, Max_WJ  0.284742017, Average_WJ  0.213400333
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645261
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  13, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687817, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142304994
+Task  2 - DM  0, Executions  4, Preemptions  0, Min_RJ  24.102803244, Max_RJ  31.246084800, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142731117
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742128, Min_WJ  0.142058656, Max_WJ  0.284742017, Average_WJ  0.213400333
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645233
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.407686461
+Elapsed time for item OCP Small Whetstone: 0.142587589
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  14, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687817, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142315094
+Task  2 - DM  0, Executions  5, Preemptions  0, Min_RJ  24.102803244, Max_RJ  34.246186533, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142729483
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742128, Min_WJ  0.142058656, Max_WJ  0.284742017, Average_WJ  0.213400333
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645006
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883883
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         3
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  15, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687817, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142319467
+Task  2 - DM  0, Executions  5, Preemptions  0, Min_RJ  24.102803244, Max_RJ  34.246186533, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142729483
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742128, Min_WJ  0.142058656, Max_WJ  0.284742017, Average_WJ  0.189619778
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645289
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  16, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142326300
+Task  2 - DM  0, Executions  5, Preemptions  0, Min_RJ  24.102803244, Max_RJ  34.246186533, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142729483
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742128, Min_WJ  0.142058656, Max_WJ  0.284742017, Average_WJ  0.189619778
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645222
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.689238183
+Elapsed time for item OCP Small Whetstone: 0.142587739
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  17, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142333367
+Task  2 - DM  0, Executions  6, Preemptions  0, Min_RJ  24.102803244, Max_RJ  37.246094078, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142728439
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742128, Min_WJ  0.142058656, Max_WJ  0.284742017, Average_WJ  0.189619778
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645278
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  18, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142334078
+Task  2 - DM  0, Executions  6, Preemptions  0, Min_RJ  24.102803244, Max_RJ  37.246094078, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142728439
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742128, Min_WJ  0.142058656, Max_WJ  0.284742017, Average_WJ  0.189619778
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140644994
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  19, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142334700
+Task  2 - DM  0, Executions  6, Preemptions  0, Min_RJ  24.102803244, Max_RJ  37.246094078, Min_WJ  0.142722289, Max_WJ  0.142756489, Average_WJ  0.142728439
+Task  3 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742128, Min_WJ  0.142058656, Max_WJ  0.284742017, Average_WJ  0.189619778
+Task  4 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073683
+Elapsed time for item RP Small Whetstone: 0.140645200
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+Signal
+Elapsed time for item RP ALR Signal: 0.000006994
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.970781272
+Elapsed time for item OCP Small Whetstone: 0.142587556
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Elapsed time for item ALR Small Whetstone: 0.141883861
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         4
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  20, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142341522
+Task  2 - DM  0, Executions  7, Preemptions  0, Min_RJ  24.102803244, Max_RJ  40.246094367, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142732511
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058656, Max_WJ  0.284752550, Average_WJ  0.213402967
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645244
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  21, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142344722
+Task  2 - DM  0, Executions  7, Preemptions  0, Min_RJ  24.102803244, Max_RJ  40.246094367, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142732511
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058656, Max_WJ  0.284752550, Average_WJ  0.213402967
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645033
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  22, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142343867
+Task  2 - DM  0, Executions  7, Preemptions  0, Min_RJ  24.102803244, Max_RJ  40.246094367, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142732511
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058656, Max_WJ  0.284752550, Average_WJ  0.213402967
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645250
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-2.252238261
+Elapsed time for item OCP Small Whetstone: 0.142587722
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  23, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142347456
+Task  2 - DM  0, Executions  8, Preemptions  0, Min_RJ  24.102803244, Max_RJ  43.246118044, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142731344
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058656, Max_WJ  0.284752550, Average_WJ  0.213402967
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645022
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  24, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142346556
+Task  2 - DM  0, Executions  8, Preemptions  0, Min_RJ  24.102803244, Max_RJ  43.246118044, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142731344
+Task  3 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058656, Max_WJ  0.284752550, Average_WJ  0.213402967
+Task  4 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000073228
+Elapsed time for item RP Small Whetstone: 0.140645011
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883872
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         5
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  25, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142347117
+Task  2 - DM  0, Executions  8, Preemptions  0, Min_RJ  24.102803244, Max_RJ  43.246118044, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142731344
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058656, Max_WJ  0.284752550, Average_WJ  0.199134111
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072928
+Elapsed time for item RP Small Whetstone: 0.140645028
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-2.533739278
+Elapsed time for item OCP Small Whetstone: 0.142587744
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  26, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142353722
+Task  2 - DM  0, Executions  9, Preemptions  0, Min_RJ  24.102803244, Max_RJ  46.246074389, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142730444
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058656, Max_WJ  0.284752550, Average_WJ  0.199134111
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072928
+Elapsed time for item RP Small Whetstone: 0.140645022
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  27, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142352689
+Task  2 - DM  0, Executions  9, Preemptions  0, Min_RJ  24.102803244, Max_RJ  46.246074389, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142730444
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058656, Max_WJ  0.284752550, Average_WJ  0.199134111
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072928
+Elapsed time for item RP Small Whetstone: 0.140645017
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  28, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142351733
+Task  2 - DM  0, Executions  9, Preemptions  0, Min_RJ  24.102803244, Max_RJ  46.246074389, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142730444
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058656, Max_WJ  0.284752550, Average_WJ  0.199134111
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072928
+Elapsed time for item RP Small Whetstone: 0.140645028
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-2.815207183
+Elapsed time for item OCP Small Whetstone: 0.142587544
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  29, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142354644
+Task  2 - DM  0, Executions  10, Preemptions  0, Min_RJ  24.102803244, Max_RJ  49.246166822, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142729694
+Task  3 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058656, Max_WJ  0.284752550, Average_WJ  0.199134111
+Task  4 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072928
+Elapsed time for item RP Small Whetstone: 0.140645167
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883833
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         6
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  30, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142354861
+Task  2 - DM  0, Executions  10, Preemptions  0, Min_RJ  24.102803244, Max_RJ  49.246166822, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142729694
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058633, Max_WJ  0.284752550, Average_WJ  0.189621528
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072711
+Elapsed time for item RP Small Whetstone: 0.140645144
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  31, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142356606
+Task  2 - DM  0, Executions  10, Preemptions  0, Min_RJ  24.102803244, Max_RJ  49.246166822, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142729694
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058633, Max_WJ  0.284752550, Average_WJ  0.189621528
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072711
+Elapsed time for item RP Small Whetstone: 0.140645167
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-3.096710106
+Elapsed time for item OCP Small Whetstone: 0.142587533
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  32, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142359111
+Task  2 - DM  0, Executions  11, Preemptions  0, Min_RJ  24.102803244, Max_RJ  52.246083956, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142729078
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058633, Max_WJ  0.284752550, Average_WJ  0.189621528
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072711
+Elapsed time for item RP Small Whetstone: 0.140645233
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  33, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142358122
+Task  2 - DM  0, Executions  11, Preemptions  0, Min_RJ  24.102803244, Max_RJ  52.246083956, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142729078
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058633, Max_WJ  0.284752550, Average_WJ  0.189621528
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072711
+Elapsed time for item RP Small Whetstone: 0.140645222
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  34, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142357189
+Task  2 - DM  0, Executions  11, Preemptions  0, Min_RJ  24.102803244, Max_RJ  52.246083956, Min_WJ  0.142722289, Max_WJ  0.142756950, Average_WJ  0.142729078
+Task  3 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742589, Min_WJ  0.142058633, Max_WJ  0.284752550, Average_WJ  0.189621528
+Task  4 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072711
+Elapsed time for item RP Small Whetstone: 0.140645217
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+Signal
+Elapsed time for item RP ALR Signal: 0.000006994
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-3.378214694
+Elapsed time for item OCP Small Whetstone: 0.142587644
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Elapsed time for item ALR Small Whetstone: 0.141883833
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         7
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  35, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142360456
+Task  2 - DM  0, Executions  12, Preemptions  0, Min_RJ  24.102803244, Max_RJ  55.246084522, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142731406
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.203211683
+Task  4 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072550
+Elapsed time for item RP Small Whetstone: 0.140645267
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  36, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142362083
+Task  2 - DM  0, Executions  12, Preemptions  0, Min_RJ  24.102803244, Max_RJ  55.246084522, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142731406
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.203211683
+Task  4 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072550
+Elapsed time for item RP Small Whetstone: 0.140645028
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  37, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142361383
+Task  2 - DM  0, Executions  12, Preemptions  0, Min_RJ  24.102803244, Max_RJ  55.246084522, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142731406
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.203211683
+Task  4 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072550
+Elapsed time for item RP Small Whetstone: 0.140645028
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-3.659712561
+Elapsed time for item OCP Small Whetstone: 0.142587539
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  38, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142363628
+Task  2 - DM  0, Executions  13, Preemptions  0, Min_RJ  24.102803244, Max_RJ  58.246118644, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142730756
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.203211683
+Task  4 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072550
+Elapsed time for item RP Small Whetstone: 0.140645278
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  39, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142362933
+Task  2 - DM  0, Executions  13, Preemptions  0, Min_RJ  24.102803244, Max_RJ  58.246118644, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142730756
+Task  3 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.203211683
+Task  4 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072550
+Elapsed time for item RP Small Whetstone: 0.140645006
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883856
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         8
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  40, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142363133
+Task  2 - DM  0, Executions  13, Preemptions  0, Min_RJ  24.102803244, Max_RJ  58.246118644, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142730756
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.195567550
+Task  4 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072422
+Elapsed time for item RP Small Whetstone: 0.140645033
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-3.941245378
+Elapsed time for item OCP Small Whetstone: 0.142587761
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  41, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142367183
+Task  2 - DM  0, Executions  14, Preemptions  0, Min_RJ  24.102803244, Max_RJ  61.246094361, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142730217
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.195567550
+Task  4 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072422
+Elapsed time for item RP Small Whetstone: 0.140645089
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  42, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142366450
+Task  2 - DM  0, Executions  14, Preemptions  0, Min_RJ  24.102803244, Max_RJ  61.246094361, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142730217
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.195567550
+Task  4 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072422
+Elapsed time for item RP Small Whetstone: 0.140644989
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  43, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142365511
+Task  2 - DM  0, Executions  14, Preemptions  0, Min_RJ  24.102803244, Max_RJ  61.246094361, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142730217
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.195567550
+Task  4 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072422
+Elapsed time for item RP Small Whetstone: 0.140645094
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-4.222734544
+Elapsed time for item OCP Small Whetstone: 0.142587522
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  44, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142367356
+Task  2 - DM  0, Executions  15, Preemptions  0, Min_RJ  24.102803244, Max_RJ  64.246177211, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142729733
+Task  3 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.195567550
+Task  4 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072422
+Elapsed time for item RP Small Whetstone: 0.140645233
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883878
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         9
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  45, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001687844, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142367444
+Task  2 - DM  0, Executions  15, Preemptions  0, Min_RJ  24.102803244, Max_RJ  64.246177211, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142729733
+Task  3 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.189622111
+Task  4 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072322
+Elapsed time for item RP Small Whetstone: 0.140645217
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  46, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001688756, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142368794
+Task  2 - DM  0, Executions  15, Preemptions  0, Min_RJ  24.102803244, Max_RJ  64.246177211, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142729733
+Task  3 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.189622111
+Task  4 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072322
+Elapsed time for item RP Small Whetstone: 0.140645267
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-4.504288611
+Elapsed time for item OCP Small Whetstone: 0.142587689
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  47, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001688756, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142370678
+Task  2 - DM  0, Executions  16, Preemptions  0, Min_RJ  24.102803244, Max_RJ  67.246094400, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142729328
+Task  3 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.189622111
+Task  4 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072322
+Elapsed time for item RP Small Whetstone: 0.140644994
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  48, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001688756, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142369967
+Task  2 - DM  0, Executions  16, Preemptions  0, Min_RJ  24.102803244, Max_RJ  67.246094400, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142729328
+Task  3 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.189622111
+Task  4 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072322
+Elapsed time for item RP Small Whetstone: 0.140645261
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  49, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001688756, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142369289
+Task  2 - DM  0, Executions  16, Preemptions  0, Min_RJ  24.102803244, Max_RJ  67.246094400, Min_WJ  0.142722289, Max_WJ  0.142757067, Average_WJ  0.142729328
+Task  3 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742706, Min_WJ  0.142058633, Max_WJ  0.284752644, Average_WJ  0.189622111
+Task  4 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072322
+Elapsed time for item RP Small Whetstone: 0.140645000
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003583
+Elapsed time for item RP OCP Activation: 0.000001700
+Signal
+Elapsed time for item RP ALR Signal: 0.000006994
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-4.785813433
+Elapsed time for item OCP Small Whetstone: 0.142587772
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Elapsed time for item ALR Small Whetstone: 0.141883828
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         10
+Elapsed time for item ALR Put Line: 0.000008389
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  50, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001688756, Min_WJ  0.141837244, Max_WJ  0.142538867, Average_WJ  0.142371333
+Task  2 - DM  0, Executions  17, Preemptions  0, Min_RJ  24.102803244, Max_RJ  70.246105361, Min_WJ  0.142722289, Max_WJ  0.142757300, Average_WJ  0.142730972
+Task  3 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.000048678, Max_RJ  0.142742933, Min_WJ  0.142058633, Max_WJ  0.284753011, Average_WJ  0.199135200
+Task  4 - DM  0, Executions  11, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000072239
+Elapsed time for item RP Small Whetstone: 0.140645067
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Delay_Until DM, ID-1
+Delay_Until DM, ID 1
+Initialize_Task_Table-1
+Interrupt generated
+Initialize_Task_Table 4
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Initialize_Task_Table 1
+Elapsed time for item RP Small Whetstone: 0.140644739
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Initialize_Task_Table 2
+Initialize_Task_Table 3
+Task  1 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001096778, Min_WJ  0.141837244, Max_WJ  0.141837244, Average_WJ  0.141837244
+Task  2 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645289
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003461
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-0.281977022
+Elapsed time for item OCP Small Whetstone: 0.142587228
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001368522, Min_WJ  0.141837244, Max_WJ  0.142219639, Average_WJ  0.142028439
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102803244, Max_RJ  24.102803244, Min_WJ  0.142722278, Max_WJ  0.142722278, Average_WJ  0.142722278
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645161
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001488706, Min_WJ  0.141837244, Max_WJ  0.142229533, Average_WJ  0.142095467
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102803244, Max_RJ  24.102803244, Min_WJ  0.142722278, Max_WJ  0.142722278, Average_WJ  0.142722278
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645250
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  4, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001488706, Min_WJ  0.141837244, Max_WJ  0.142229533, Average_WJ  0.142126472
+Task  2 - DM  0, Executions  1, Preemptions  0, Min_RJ  24.102803244, Max_RJ  24.102803244, Min_WJ  0.142722278, Max_WJ  0.142722278, Average_WJ  0.142722278
+Task  3 - DM  0, Executions  0, Preemptions  0, Min_RJ N/A, Max_RJ N/A, Min_WJ N/A, Max_WJ N/A, Average_WJ N/A
+Task  4 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.000020372, Max_RJ  0.000020372, Min_WJ  0.000080472, Max_WJ  0.000080472, Average_WJ  0.000080472
+Elapsed time for item RP Small Whetstone: 0.140645222
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003461
+Elapsed time for item RP OCP Activation: 0.000001700
+Signal
+Elapsed time for item RP ALR Signal: 0.000006994
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-0.563183128
+Elapsed time for item OCP Small Whetstone: 0.142587506
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Elapsed time for item ALR Small Whetstone: 0.141883539
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         1
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  5, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001488706, Min_WJ  0.141837244, Max_WJ  0.142374411, Average_WJ  0.142176056
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102803244, Max_RJ  25.245864678, Min_WJ  0.142722278, Max_WJ  0.142756472, Average_WJ  0.142739372
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.142742111, Max_RJ  0.142742111, Min_WJ  0.284752050, Max_WJ  0.284752050, Average_WJ  0.284752050
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645217
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  6, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001648733, Min_WJ  0.141837244, Max_WJ  0.142389644, Average_WJ  0.142211650
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102803244, Max_RJ  25.245864678, Min_WJ  0.142722278, Max_WJ  0.142756472, Average_WJ  0.142739372
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.142742111, Max_RJ  0.142742111, Min_WJ  0.284752050, Max_WJ  0.284752050, Average_WJ  0.284752050
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645144
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  7, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001648733, Min_WJ  0.141837244, Max_WJ  0.142389644, Average_WJ  0.142223828
+Task  2 - DM  0, Executions  2, Preemptions  0, Min_RJ  24.102803244, Max_RJ  25.245864678, Min_WJ  0.142722278, Max_WJ  0.142756472, Average_WJ  0.142739372
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.142742111, Max_RJ  0.142742111, Min_WJ  0.284752050, Max_WJ  0.284752050, Average_WJ  0.284752050
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645244
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003461
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-0.844583078
+Elapsed time for item OCP Small Whetstone: 0.142587717
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406
+Task  1 - DM  0, Executions  8, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001648733, Min_WJ  0.141837244, Max_WJ  0.142417139, Average_WJ  0.142247989
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102803244, Max_RJ  28.246020811, Min_WJ  0.142722278, Max_WJ  0.142756472, Average_WJ  0.142733811
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.142742111, Max_RJ  0.142742111, Min_WJ  0.284752050, Max_WJ  0.284752050, Average_WJ  0.284752050
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645261
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+End of cyclic activation.                         
+Task  1 - DM  0, Executions  9, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001648733, Min_WJ  0.141837244, Max_WJ  0.142417139, Average_WJ  0.142254550
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102803244, Max_RJ  28.246020811, Min_WJ  0.142722278, Max_WJ  0.142756472, Average_WJ  0.142733811
+Task  3 - DM  0, Executions  1, Preemptions  0, Min_RJ  0.142742111, Max_RJ  0.142742111, Min_WJ  0.284752050, Max_WJ  0.284752050, Average_WJ  0.284752050
+Task  4 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000075950
+Elapsed time for item RP Small Whetstone: 0.140645172
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Signal
+Elapsed time for item RP ALR Signal: 0.000006922
+End of cyclic activation.                         
+Elapsed time for item ALR Small Whetstone: 0.141883861
+Elapsed time for item AL Read: 0.000001267
+Elapsed time for item ALR Read: 0.000002244
+End of parameterless sporadic activation.         2
+Elapsed time for item ALR Put Line: 0.000008222
+Interrupt generated
+Elapsed time for item AL Write: 0.000001678
+Elapsed time for item EES AL Write: 0.000002067
+Task  1 - DM  0, Executions  10, Preemptions  0, Min_RJ  0.001096778, Max_RJ  0.001648733, Min_WJ  0.141837244, Max_WJ  0.142417139, Average_WJ  0.142262256
+Task  2 - DM  0, Executions  3, Preemptions  0, Min_RJ  24.102803244, Max_RJ  28.246020811, Min_WJ  0.142722278, Max_WJ  0.142756472, Average_WJ  0.142733811
+Task  3 - DM  0, Executions  2, Preemptions  0, Min_RJ  0.000048694, Max_RJ  0.142742111, Min_WJ  0.142058656, Max_WJ  0.284752050, Average_WJ  0.213405350
+Task  4 - DM  0, Executions  3, Preemptions  0, Min_RJ  0.000011328, Max_RJ  0.000020372, Min_WJ  0.000071428, Max_WJ  0.000080472, Average_WJ  0.000074439
+Elapsed time for item RP Small Whetstone: 0.140645200
+Elapsed time for item RP Due Activation: 0.000001344
+Elapsed time for item RP Check Due: 0.000001372
+Elapsed time for item RB Deposit: 0.000001361
+Elapsed time for item RB Extract: 0.000001361
+Elapsed time for item RP RB Deposit: 0.000003461
+Elapsed time for item RP OCP Activation: 0.000001700
+End of cyclic activation.                         
+Elapsed time for item OCP Extract Workload:-1.126026344
+Elapsed time for item OCP Small Whetstone: 0.142587644
+End of sporadic activation.                       
+Elapsed time for item OCP Put Line: 0.000007406

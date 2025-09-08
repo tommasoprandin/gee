@@ -12,15 +12,19 @@ package body Activation_Log_Reader_Parameters is
       Interrupt_Arrival_Counter : Activation_Log.Range_Counter := 0;
       Interrupt_Arrival_Time : Ada.Real_Time.Time;
    begin
-      --  Task_Metrics.Start_Tracking;
+      Task_Metrics.Start_Tracking;
       --  we perform some work
       Production_Workload.Small_Whetstone (Load);
-      --  Task_Metrics.End_Tracking;
+      Task_Metrics.End_Tracking ("ALR Small Whetstone");
       --  then we read into the Activation_Log buffer
+		Task_Metrics.Start_Tracking;
       Activation_Log.Activation_Log.Read (Interrupt_Arrival_Counter,
          Interrupt_Arrival_Time);
+		Task_Metrics.End_Tracking ("ALR Read");
       --  and finally we report nominal completion of current activation
+		Task_Metrics.Start_Tracking;
       Ada.Text_IO.Put_Line ("End of parameterless sporadic activation.        " &
          Activation_Log.Range_Counter'Image (Interrupt_Arrival_Counter));
+		Task_Metrics.End_Tracking ("ALR Put Line");
    end Activation_Log_Reader_Operation;
 end Activation_Log_Reader_Parameters;
