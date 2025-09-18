@@ -1,134 +1,125 @@
 Processing_Resource (
    Type                   => Regular_Processor,
-   Name                   => CPU,
+   Name                   => cpu,
    Max_Interrupt_Priority => 255,
    Min_Interrupt_Priority => 241,
-   Worst_ISR_Switch       => 2.578E-06,
-   Avg_ISR_Switch         => 2.578E-06,
-   Best_ISR_Switch        => 2.578E-06,
+   Worst_ISR_Switch       => 2.850E-06,
+   Avg_ISR_Switch         => 2.850E-06,
+   Best_ISR_Switch        => 2.850E-06,
+   System_Timer           =>
+      ( Type           => Ticker,
+        Worst_Overhead => 3.964E-06,
+        Period         => 0.001000),
    Speed_Factor           => 1.00);
-
---Schedulers
 
 Scheduler (
    Type            => Primary_Scheduler,
-   Name            => EDF_Scheduler,
-   Host            => CPU,
+   Name            => fps,
+   Host            => cpu,
    Policy          =>
-      ( Type                 => EDF,
-        Worst_Context_Switch => 3.090E-06));
-
---Scheduling Servers
+      ( Type                 => Fixed_Priority,
+        Worst_Context_Switch => 3.090E-06,
+        Max_Priority         => 240,
+        Min_Priority         => 1));
 
 Scheduling_Server (
    Type                       => Regular,
    Name                       => regular_producer,
    Server_Sched_Parameters    =>
-      ( Type         => EDF_policy,
-        Deadline     => 0.5,
+      ( Type         => Fixed_Priority_Policy,
+        The_Priority => 7,
         Preassigned  => YES),
-   Synchronization_Parameters => (
-                Type             => SRP_Parameters,
-                Preemption_Level => 30,
-                Preassigned      => No),
-   Scheduler                  => EDF_Scheduler);
+   Scheduler                  => fps);
 
 Scheduling_Server (
    Type                       => Regular,
    Name                       => on_call_producer,
    Server_Sched_Parameters    =>
-      ( Type         => EDF_policy,
-        Deadline     => 0.8,
+      ( Type         => Fixed_Priority_Policy,
+        The_Priority => 5,
         Preassigned  => YES),
-   Synchronization_Parameters => (
-                Type             => SRP_Parameters,
-                Preemption_Level => 20,
-                Preassigned      => No),
-   Scheduler                  => EDF_Scheduler);
+   Scheduler                  => fps);
 
 Scheduling_Server (
    Type                       => Regular,
    Name                       => activation_log_reader,
    Server_Sched_Parameters    =>
-      ( Type         => EDF_policy,
-        Deadline     => 1.0,
+      ( Type         => Fixed_Priority_Policy,
+        The_Priority => 3,
         Preassigned  => YES),
-   Synchronization_Parameters => (
-                Type             => SRP_Parameters,
-                Preemption_Level => 10,
-                Preassigned      => No),
-   Scheduler                  => EDF_Scheduler);
+   Scheduler                  => fps);
 
 Scheduling_Server (
    Type                       => Regular,
    Name                       => external_event_server,
    Server_Sched_Parameters    =>
-      ( Type         => EDF_policy,
-        Deadline     => 0.1,
+      ( Type         => Fixed_Priority_Policy,
+        The_Priority => 11,
         Preassigned  => YES),
-   Synchronization_Parameters => (
-                Type             => SRP_Parameters,
-                Preemption_Level => 40,
-                Preassigned      => No),
-   Scheduler                  => EDF_Scheduler);
-
+   Scheduler                  => fps);
 
 Shared_Resource (
-   Type              => SRP_Resource,
-   Name              => request_buffer,
-   Preemption_Level  => 30,
-   Preassigned       => NO);
+   Type        => Immediate_Ceiling_Resource,
+   Name        => request_buffer,
+   Ceiling     => 7,
+   Preassigned => YES);
 
 Shared_Resource (
-   Type        => SRP_Resource,
+   Type        => Immediate_Ceiling_Resource,
    Name        => activation_log,
-   Preemption_Level     => 40,
-   Preassigned => NO);
+   Ceiling     => 11,
+   Preassigned => YES);
 
--- 1: 0.019291; 25: 0.482555; 25.77: 0.497414
+Shared_Resource (
+   Type        => Immediate_Ceiling_Resource,
+   Name        => event_queue,
+   Ceiling     => 241,
+   Preassigned => YES);
+
+-- 756: 0.00554170; x88: 0.4876696
 Operation (
    Type                       => Simple,
    Name                       => rp_small_whetstone,
-   Worst_Case_Execution_Time  => 0.482555,
-   Avg_Case_Execution_Time  => 0.482555,
-   Best_Case_Execution_Time  => 0.482555);
+   Worst_Case_Execution_Time  => 0.4876696,
+   Avg_Case_Execution_Time   => 0.4876696,
+   Best_Case_Execution_Time  => 0.4876696);
 
--- 1: 0.007096; 25: 0.177452; 25.77: 0.182915; 44: 0.312311
+-- 278: 0.00203782; x88: 0.17932824; x1.7: 0.304858
 Operation (
    Type                       => Simple,
    Name                       => ocp_small_whetstone,
-   Worst_Case_Execution_Time  => 0.312311,
-   Avg_Case_Execution_Time  => 0.312311,
-   Best_Case_Execution_Time  => 0.312311);
+   Worst_Case_Execution_Time  => 0.304858,
+   Avg_Case_Execution_Time   => 0.304858,
+   Best_Case_Execution_Time  => 0.304858);
 
--- 1: 0.003549; 25: 0.088669; 25.77: 0.091399; 44: 0.156053, 56: 0.198612
+-- 139: 0.00101891; x88: 0.08966412; x1.7: 0.152429; x1.3: 0.1981577
 Operation (
    Type                       => Simple,
    Name                       => alr_small_whetstone,
-   Worst_Case_Execution_Time  => 0.198612,
-   Avg_Case_Execution_Time  => 0.198612,
-   Best_Case_Execution_Time  => 0.198612);
+   Worst_Case_Execution_Time  => 0.1981577,
+   Avg_Case_Execution_Time   => 0.1981577,
+   Best_Case_Execution_Time  => 0.1981577);
 
 Operation (
    Type                       => Simple,
    Name                       => due_activation,
-   Worst_Case_Execution_Time  => 1.000E-06,
-   Avg_Case_Execution_Time  => 1.000E-06,
-   Best_Case_Execution_Time  => 1.000E-06);
+   Worst_Case_Execution_Time  => 1.344E-06,
+   Avg_Case_Execution_Time   => 1.344E-06,
+   Best_Case_Execution_Time  => 1.344E-06);
 
 Operation (
    Type                       => Simple,
    Name                       => check_due,
-   Worst_Case_Execution_Time  => 1.000E-06,
-   Avg_Case_Execution_Time  => 1.000E-06,
-   Best_Case_Execution_Time  => 1.000E-06);
+   Worst_Case_Execution_Time  => 1.372E-06,
+   Avg_Case_Execution_Time   => 1.372E-06,
+   Best_Case_Execution_Time  => 1.372E-06);
 
 Operation (
    Type                       => Simple,
    Name                       => rb_deposit,
-   Worst_Case_Execution_Time  => 2.000E-06,
-   Avg_Case_Execution_Time  => 2.000E-06,
-   Best_Case_Execution_Time  => 2.000E-06,
+   Worst_Case_Execution_Time  => 3.583E-06,
+   Avg_Case_Execution_Time   => 3.583E-06,
+   Best_Case_Execution_Time  => 3.583E-06,
    Shared_Resources_To_Lock   =>
       ( request_buffer),
    Shared_Resources_To_Unlock =>
@@ -137,9 +128,9 @@ Operation (
 Operation (
    Type                       => Simple,
    Name                       => rb_extract,
-   Worst_Case_Execution_Time  => 2.000E-06,
-   Avg_Case_Execution_Time  => 2.000E-06,
-   Best_Case_Execution_Time  => 2.000E-06,
+   Worst_Case_Execution_Time  => 1.361E-06,
+   Avg_Case_Execution_Time   => 1.361E-06,
+   Best_Case_Execution_Time  => 1.361E-06,
    Shared_Resources_To_Lock   =>
       ( request_buffer),
    Shared_Resources_To_Unlock =>
@@ -148,39 +139,39 @@ Operation (
 Operation (
    Type                     => Enclosing,
    Name                     => rb_extract_enclosing,
-   Worst_Case_Execution_Time=> 7.000E-06,
-   Avg_Case_Execution_Time=> 7.000E-06,
-   Best_Case_Execution_Time=> 7.000E-06,
+   Worst_Case_Execution_Time=> 4.760E-06,
+   Avg_Case_Execution_Time => 4.760E-06,
+   Best_Case_Execution_Time=> 4.760E-06,
    Composite_Operation_List =>
       ( rb_extract));
 
 Operation (
    Type                       => Simple,
    Name                       => set_deadline_handler,
-   Worst_Case_Execution_Time  => 6.000E-06,
-   Avg_Case_Execution_Time  => 6.000E-06,
-   Best_Case_Execution_Time  => 6.000E-06);
+   Worst_Case_Execution_Time  => 5.870E-06,
+   Avg_Case_Execution_Time   => 5.870E-06,
+   Best_Case_Execution_Time  => 5.870E-06);
 
 Operation (
    Type                       => Simple,
    Name                       => cancel_deadline_handler,
-   Worst_Case_Execution_Time  => 3.000E-06,
-   Avg_Case_Execution_Time  => 3.000E-06,
-   Best_Case_Execution_Time  => 3.000E-06);
+   Worst_Case_Execution_Time  => 2.835E-06,
+   Avg_Case_Execution_Time   => 2.835E-06,
+   Best_Case_Execution_Time  => 2.835E-06);
 
 Operation (
    Type                       => Simple,
    Name                       => delay_until,
-   Worst_Case_Execution_Time  => 6.000E-06,
-   Avg_Case_Execution_Time  => 6.000E-06,
-   Best_Case_Execution_Time  => 6.000E-06);
+   Worst_Case_Execution_Time  => 5.420E-06,
+   Avg_Case_Execution_Time   => 5.420E-06,
+   Best_Case_Execution_Time  => 5.420E-06);
 
 Operation (
    Type                     => Enclosing,
    Name                     => ocp_start,
-   Worst_Case_Execution_Time=> 6.000E-06,
-   Avg_Case_Execution_Time=> 6.000E-06,
-   Best_Case_Execution_Time=> 6.000E-06,
+   Worst_Case_Execution_Time=> 5.283E-06,
+   Avg_Case_Execution_Time => 5.283E-06,
+   Best_Case_Execution_Time=> 5.283E-06,
    Composite_Operation_List =>
       ( rb_deposit));
 
@@ -205,9 +196,9 @@ Operation (
 Operation (
    Type                       => Simple,
    Name                       => put_line,
-   Worst_Case_Execution_Time  => 1.400E-05,
-   Avg_Case_Execution_Time  => 1.400E-05,
-   Best_Case_Execution_Time  => 1.400E-05);
+   Worst_Case_Execution_Time  => 8.200E-06,
+   Avg_Case_Execution_Time   => 8.200E-06,
+   Best_Case_Execution_Time  => 8.200E-06);
 
 Operation (
    Type                     => Composite,
@@ -230,16 +221,20 @@ Operation (
 Operation (
    Type                       => Simple,
    Name                       => eq_wait,
-   Worst_Case_Execution_Time  => 1.000E-06,
-   Avg_Case_Execution_Time  => 1.000E-06,
-   Best_Case_Execution_Time  => 1.000E-06);
+   Worst_Case_Execution_Time  => 0.972E-06,
+   Avg_Case_Execution_Time   => 0.972E-06,
+   Best_Case_Execution_Time  => 0.972E-06,
+   Shared_Resources_To_Lock   =>
+      ( event_queue),
+   Shared_Resources_To_Unlock =>
+      ( event_queue));
 
 Operation (
    Type                       => Simple,
    Name                       => al_read,
-   Worst_Case_Execution_Time  => 1.000E-06,
-   Avg_Case_Execution_Time  => 1.000E-06,
-   Best_Case_Execution_Time  => 1.000E-06,
+   Worst_Case_Execution_Time  => 1.267E-06,
+   Avg_Case_Execution_Time   => 1.267E-06,
+   Best_Case_Execution_Time  => 1.267E-06,
    Shared_Resources_To_Lock   =>
       ( activation_log),
    Shared_Resources_To_Unlock =>
@@ -248,18 +243,18 @@ Operation (
 Operation (
    Type                       => Enclosing,
    Name                       => al_read_enclosing,
-   Worst_Case_Execution_Time  => 4.000E-06,
-   Avg_Case_Execution_Time  => 4.000E-06,
-   Best_Case_Execution_Time  => 4.000E-06,
+   Worst_Case_Execution_Time  => 3.256E-06,
+   Avg_Case_Execution_Time   => 3.256E-06,
+   Best_Case_Execution_Time  => 3.256E-06,
    Composite_Operation_List =>
       ( al_read));
 
 Operation (
    Type                       => Simple,
    Name                       => al_write,
-   Worst_Case_Execution_Time  => 2.000E-06,
-   Avg_Case_Execution_Time  => 2.000E-06,
-   Best_Case_Execution_Time  => 2.000E-06,
+   Worst_Case_Execution_Time  => 1.678E-06,
+   Avg_Case_Execution_Time   => 1.678E-06,
+   Best_Case_Execution_Time  => 1.678E-06,
    Shared_Resources_To_Lock   =>
       ( activation_log),
    Shared_Resources_To_Unlock =>
@@ -268,18 +263,18 @@ Operation (
 Operation (
    Type                     => Enclosing,
    Name                     => server_operation,
-   Worst_Case_Execution_Time=> 4.000E-06,
-   Avg_Case_Execution_Time=> 4.000E-06,
-   Best_Case_Execution_Time=> 4.000E-06,
+   Worst_Case_Execution_Time=> 3.322E-06,
+   Avg_Case_Execution_Time => 3.322E-06,
+   Best_Case_Execution_Time=> 3.322E-06,
    Composite_Operation_List =>
       ( al_write));
 
 Operation (
    Type                     => Enclosing,
    Name                     => external_event_server,
-   Worst_Case_Execution_Time=> 1.000E-05,
-   Avg_Case_Execution_Time=> 1.000E-05,
-   Best_Case_Execution_Time=> 1.000E-05,
+   Worst_Case_Execution_Time=> 7.405E-06,
+   Avg_Case_Execution_Time => 7.405E-06,
+   Best_Case_Execution_Time=> 7.405E-06,
    Composite_Operation_List =>
       ( eq_wait,
         server_operation));
@@ -287,16 +282,16 @@ Operation (
 Operation (
    Type                       => Simple,
    Name                       => alr_signal,
-   Worst_Case_Execution_Time  => 5.000E-06,
-   Avg_Case_Execution_Time  => 5.000E-06,
-   Best_Case_Execution_Time  => 5.000E-06);
+   Worst_Case_Execution_Time  => 6.922E-06,
+   Avg_Case_Execution_Time   => 6.922E-06,
+   Best_Case_Execution_Time  => 6.922E-06);
 
 Operation (
    Type                       => Simple,
    Name                       => alr_wait,
-   Worst_Case_Execution_Time  => 6.000E-06,
-   Avg_Case_Execution_Time  => 6.000E-06,
-   Best_Case_Execution_Time  => 6.000E-06);
+   Worst_Case_Execution_Time  => 6.306E-06,
+   Avg_Case_Execution_Time   => 6.306E-06,
+   Best_Case_Execution_Time  => 6.306E-06);
 
 Operation (
    Type                     => Composite,
@@ -344,9 +339,7 @@ Transaction (
    External_Events =>
       ( ( Type             => Sporadic,
           Name             => ocp_activation,
-          Avg_Interarrival => 3.000,
-          Distribution     => UNIFORM,
-          Min_Interarrival => 3.000)),
+          Min_Interarrival => 5.000)),
    Internal_Events =>
       ( ( Type => Regular,
           Name => ocpo1,
@@ -367,7 +360,7 @@ Transaction (
    External_Events =>
       ( ( Type             => Sporadic,
           Name             => alr_activation,
-          Avg_Interarrival => 3.000,
+          Avg_Interarrival => 0.000,
           Distribution     => UNIFORM,
           Min_Interarrival => 3.000)),
    Internal_Events =>
@@ -386,7 +379,7 @@ Transaction (
 
 Transaction (
    Type            => regular,
-   Name            => ees_transaction,
+   Name            => interrupt_transaction,
    External_Events =>
       ( ( Type             => Sporadic,
           Name             => button_click,
@@ -405,4 +398,5 @@ Transaction (
          Input_Event        => button_click,
          Output_Event       => eqo1,
          Activity_Operation => external_event_server,
-         Activity_Server    => external_event_server)));      
+         Activity_Server    => external_event_server)));
+
