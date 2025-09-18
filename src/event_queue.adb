@@ -1,6 +1,7 @@
 with ST;              use ST;
 with ST.EXTI; use ST.EXTI;
 with System.Tasking.Protected_Objects;
+with External_Event_Server; use External_Event_Server;
 
 package body Event_Queue is
    Button_Line : constant Interrupt_Line := 0;
@@ -15,6 +16,7 @@ package body Event_Queue is
            (Button_Line => Occurred, others => Not_Occurred);
 
          Barrier := True;
+         Mark_Activation_Time;
       end Signal;
       entry Wait when Barrier is
       begin
